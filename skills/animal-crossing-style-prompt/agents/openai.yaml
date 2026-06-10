@@ -1,0 +1,4 @@
+interface:
+  display_name: "动物森友会风格图片提示词"
+  short_description: "生成稳定的动物森友会原版游戏实况截图风格图片提示词模板"
+  default_prompt: "使用 $animal-crossing-style-prompt 为这个场景写一份动物森友会风格图片提示词。"
